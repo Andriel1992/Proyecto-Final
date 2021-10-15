@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T18:11:31.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BjcNISOhO_-9vHdM-Qkz" version="15.5.4" type="github"><diagram id="MHUQAyUXf-Gqhqubh2zP" name="Page-1">1Vdbb5swFP41PGYCQ0h4LGmbReouVTRNfXSDA1aNzcAZZL9+Ntjc23QdyboQCfz5+PZ9x8fHhr2Ki3UKk+gTCxAxgBkUhn1tAGA5ABjybwbHCll4TgWEKQ6UUQNs8S+kQFOhBxygrGPIGSMcJ11wxyhFO97BYJqyvGu2Z6Q7agJDNAC2O0iG6Hcc8KhCl3OzwT8iHEZ6ZMtUNTHUxgrIIhiwvAXZN4a9Shnj1VdcrBCR5Gleqna3z9TWE0sR5a9pAO6z6GHlPz7Mkqf7HG4oQ9FM9fITkoNasJosP2oG8ghztE3gTpZzobJh+xGPiShZ4hNmScX7HhdIDOXvMSErRlhaNrdvy5/EGeVb1S0YTl7PBKUcFS1ILWaNWIx4ehQmunY5r5octa8povNGJ0fbRC2NahAq3wjrvhv6xIdi8A/YBCNsuoSrxZdeqnlxfxyk8L5g6LF82pAbyveGZoIM0eqbeFMYI92ZmFvVX2U3UCxlBxpILUqBTug3gRI2WHzoamHPh1oAvTPaWoBzSWG/SQoPyecFKb7CLMtZGvw/UjjgX0vhno4xDU3maZp6AcYsf9PQ9+aY4ppnIm8xIO+OhZj+naMNGPQ853oiB1yAvgMuhxxa1ogD2uficDngUG5jtY97PIpl8i5ZGU/ZE9J0UUZRj0EFQYJDKoo7QR4SuC9JwyKTuFIVMQ4COcyoOt0dUOcKZj0BnX2YvaPUOU8A94aiuZfUzBto1pyC71KyC2gyEskvqonetNNFcsFZKw755XPZCO+ar4zwZzserbEcvMoukg63OikhmKKZntqVMBEdVOyYktBZVl6iZAVYJMUwmbn7st58biUwybPZy/vYWZ1g2HOZ2jW6t4tpjjKv6ypgJKmdaP+JYnMRLOta12n75jc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-15T19:10:51.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="u1pkwk9Wm4YBiA7q0ab3" version="15.5.4" type="github">
+  <diagram id="MHUQAyUXf-Gqhqubh2zP" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2QshYCBbY-pkQwaInoeh-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="185" y="140" width="485" height="485" as="geometry" />
+        </mxCell>
+        <mxCell id="2QshYCBbY-pkQwaInoeh-2" value="&lt;font color=&quot;#b3b3b3&quot;&gt;Insert Username&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="350" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2QshYCBbY-pkQwaInoeh-3" value="&lt;font color=&quot;#9e9e9e&quot;&gt;Insert Password&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="420" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2QshYCBbY-pkQwaInoeh-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="185" y="140" width="485" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2QshYCBbY-pkQwaInoeh-7" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;" parent="1" vertex="1">
+          <mxGeometry x="372.5" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QshYCBbY-pkQwaInoeh-8" value="Passsword" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;strokeWidth=0;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QshYCBbY-pkQwaInoeh-9" value="Username" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QshYCBbY-pkQwaInoeh-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="185" y="600" width="485" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2QshYCBbY-pkQwaInoeh-11" value="&lt;p style=&quot;line-height: 1 ; font-size: 27px&quot;&gt;LOGIN&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#000000;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="395" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GakCZ3nmQm8-IOG4hbol-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/user-interface-line-38/24/Untitled-5-30-128.png" vertex="1" parent="1">
+          <mxGeometry x="455" y="485" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
