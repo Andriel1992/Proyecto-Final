@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T21:04:45.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="B-a5g73EWlQcuF9x7nJU" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T21:06:13.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7g_9U7sNu1MDVokK8jBM" version="15.5.4" type="github">
   <diagram id="nnV6EA0MDo6wHBtzFhtK" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="11" y="11" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QFcDTs5_IMO44881ND-N-53" value="Instituciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#F2F2F2;" parent="1" vertex="1">
-          <mxGeometry x="11" y="99" width="60" height="30" as="geometry" />
+          <mxGeometry x="22" y="99" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QFcDTs5_IMO44881ND-N-54" value="Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#F2F2F2;" parent="1" vertex="1">
           <mxGeometry y="60" width="60" height="30" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="525.5" y="514.5" width="80" height="33" as="geometry" />
         </mxCell>
         <mxCell id="QFcDTs5_IMO44881ND-N-77" value="Nombre: Datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="429" y="374" width="99" height="30" as="geometry" />
+          <mxGeometry x="423.5" y="371" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QFcDTs5_IMO44881ND-N-78" value="Id: Datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="429" y="308" width="60" height="30" as="geometry" />
