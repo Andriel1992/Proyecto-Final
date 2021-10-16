@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T19:10:51.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="u1pkwk9Wm4YBiA7q0ab3" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T21:04:13.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="6ZkFw8Ihvj1Vtkps6Fln" version="15.5.4" type="github">
   <diagram id="MHUQAyUXf-Gqhqubh2zP" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="2QshYCBbY-pkQwaInoeh-11" value="&lt;p style=&quot;line-height: 1 ; font-size: 27px&quot;&gt;LOGIN&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#000000;fontStyle=2;" parent="1" vertex="1">
           <mxGeometry x="395" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GakCZ3nmQm8-IOG4hbol-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/user-interface-line-38/24/Untitled-5-30-128.png" vertex="1" parent="1">
+        <mxCell id="GakCZ3nmQm8-IOG4hbol-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/user-interface-line-38/24/Untitled-5-30-128.png" parent="1" vertex="1">
           <mxGeometry x="455" y="485" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
